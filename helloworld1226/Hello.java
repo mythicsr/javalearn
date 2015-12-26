@@ -1,5 +1,10 @@
 public class Hello{
+	
 	public static void main(String[] args){
-		System.out.println("hello world");
+//		char c = '\u9999';
+		char c = '香';
+		
+		System.out.println(c);
+	
 	}
 }
