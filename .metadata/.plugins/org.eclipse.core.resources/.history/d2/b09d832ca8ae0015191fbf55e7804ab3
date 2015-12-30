@@ -1,0 +1,28 @@
+package hello;
+
+import java.util.Scanner;
+
+import com.sun.org.apache.bcel.internal.generic.RETURN;
+
+public class Hello {
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n;
+		System.out.println("«Î ‰»Î");
+		Scanner scanner  = new Scanner(System.in);
+		n = scanner.nextInt();
+		System.out.println(function(n));
+		
+	}
+	
+	static int function(int k){
+		if(k==0)
+			return 0;
+	}
+	
+	
+
+}

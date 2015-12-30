@@ -1,0 +1,24 @@
+package hello;
+
+import com.sun.java_cup.internal.runtime.Scanner;
+import com.sun.java_cup.internal.runtime.Symbol;
+
+public class Hello {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner  = new Scanner(;) {
+			
+			public Symbol next_token() throws Exception {
+				// TODO Auto-generated method stub
+				return null;
+			}
+		};
+	}
+	
+	
+
+}
