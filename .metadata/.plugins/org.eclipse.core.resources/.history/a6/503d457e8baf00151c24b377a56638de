@@ -1,0 +1,26 @@
+package miwalk;
+
+public class Hello {
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Hello.pri();
+		Hello2.pri();
+		HelloFoo1.pri();
+		smartlock.World.pri();
+	}
+	
+	
+	protected static void pri(){
+		System.out.println("Hello");
+	}
+	
+	class mythread extends Thread{
+		public void run() {
+			// TODO Auto-generated method stub
+			super.run();
+		}
+	}
+}

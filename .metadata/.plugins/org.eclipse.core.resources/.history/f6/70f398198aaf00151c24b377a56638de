@@ -1,0 +1,6 @@
+package smartlock;
+import miwalk.*;
+
+public class HelloFoo2 extends Hello{
+	
+}

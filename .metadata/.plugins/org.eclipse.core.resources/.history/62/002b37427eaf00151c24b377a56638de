@@ -1,0 +1,7 @@
+package smartlock;
+
+class World {
+	public static void pri(String str){
+		System.out.print(str);
+	}
+}

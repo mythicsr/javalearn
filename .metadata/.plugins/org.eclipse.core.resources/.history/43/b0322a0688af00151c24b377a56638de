@@ -1,0 +1,7 @@
+package miwalk;
+
+public class HelloFoo1 {
+	public static void pri(){
+		System.out.println(" HelloFoo1 ");
+	}
+}

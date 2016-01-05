@@ -1,0 +1,8 @@
+package miwalk;
+
+public class HelloFoo1 extends Hello{
+	public static void pri(){
+		Hello.pri();
+		System.out.println("HelloFoo1");
+	}
+}

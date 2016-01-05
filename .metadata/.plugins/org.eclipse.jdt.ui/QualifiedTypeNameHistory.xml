@@ -3,6 +3,14 @@
 <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.RETURN"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.FNEG"/>
+<fullyQualifiedTypeName name="smartlock.World"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="miwalk.Hello2"/>
+<fullyQualifiedTypeName name="miwalk.HelloFoo1"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="smartlock.HelloFoo2"/>
+<fullyQualifiedTypeName name="miwalk.Hello"/>
 </qualifiedTypeNameHistroy>
